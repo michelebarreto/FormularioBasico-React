@@ -1,0 +1,10 @@
+body{
+  background-color: rgb(234, 245, 194);
+}
+
+.App{
+  text-align: center;
+}
+.App input{
+  margin: 10px;
+}
